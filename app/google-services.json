@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735711772509",
+    "firebase_url": "https://vitrents-default-rtdb.firebaseio.com",
+    "project_id": "vitrents",
+    "storage_bucket": "vitrents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735711772509:android:0b1972bef825cde70b32b4",
+        "android_client_info": {
+          "package_name": "com.company.vitrents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735711772509-bga3plancql0rrkpbfld4grnrqdm7l9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.vitrents",
+            "certificate_hash": "c3687fbaeaa52205fed3d91f7ad9f198f9efe4fb"
+          }
+        },
+        {
+          "client_id": "735711772509-md9btqbu8pe4sdchdnanq042m0e4vdip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPIADB6kUz_SihqysSybpkna9fMNcPguI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735711772509-md9btqbu8pe4sdchdnanq042m0e4vdip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
